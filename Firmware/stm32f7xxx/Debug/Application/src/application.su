@@ -1,0 +1,3 @@
+application.cpp:14:6:void start()	8	static
+application.cpp:21:6:void init()	4	static
+application.cpp:27:6:void launch()	4	static
