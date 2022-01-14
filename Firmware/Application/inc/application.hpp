@@ -15,6 +15,8 @@ extern "C" {
 #endif
 
 
+
+
 void start();
 
 void init();
@@ -25,3 +27,8 @@ void launch();
 #ifdef __cplusplus
 }
 #endif
+
+
+
+//void sendRadioCommand();
+//void sendRadioCommand(GSC::RADIO_COMMANDS command);

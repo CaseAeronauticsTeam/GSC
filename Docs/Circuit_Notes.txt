@@ -1,0 +1,6 @@
+G = parallel(3x 100ohm)
+Y&R = parallel(2x330 + 100) 
+
+
+Battery Sense Voltage Divider values:
+1.475k & 9.92k
