@@ -1,4 +1,4 @@
 application.cpp:34:6:void start()	8	static
 application.cpp:43:6:void init()	4	static
-application.cpp:51:6:void launch()	8	static
-application.cpp:67:6:void sendRadioCommand(GSC::RADIO_COMMANDS)	16	static
+application.cpp:51:6:void launch()	16	static
+application.cpp:99:6:void sendRadioCommand(GSC::RADIO_COMMANDS)	16	static
